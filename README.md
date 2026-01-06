@@ -19,5 +19,5 @@ This is a theme for VsCode with colors that resemble Cinnamoroll from the Sanrio
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 If you really like this theme, you can donate me on MobilePay :).
-
+~Changed by Mattias
 **Enjoy!**
